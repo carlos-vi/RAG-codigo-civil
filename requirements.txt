@@ -1,0 +1,32 @@
+# Versiones fijadas explícitamente: ragas 0.2.x depende de módulos internos
+# de langchain-community que fueron eliminados en la rama 1.x de LangChain
+# (ej. langchain_community.chat_models.vertexai). Se fija toda la familia
+# de paquetes langchain-* a la rama 0.3.x, que es con la que ragas 0.2.x
+# está probado.
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-text-splitters==0.3.9
+langchain-chroma==0.2.6
+# 1.x exige langchain-core 1.x (incompatible con la rama 0.3.x fijada arriba),
+# y langchain-nvidia-ai-endpoints 0.3.19 es la ultima de la rama 0.3.x.
+langchain-nvidia-ai-endpoints==0.3.19
+langchain-core>=0.3.78,<1.0
+python-dotenv>=1.0.0
+rank_bm25>=0.2.2
+chromadb>=1.0.20
+ragas==0.2.15
+datasets>=2.20.0
+requests>=2.32.0
+
+# Dependencia indirecta (jsonschema/referencing -> chromadb, ragas) con
+# extension nativa. La version mas reciente (2026.9.1) no tenia reputacion
+# verificada y Smart App Control la bloqueaba en una instalacion limpia
+# (ImportError: DLL load failed while importing rpds). Esta carga bien.
+rpds-py==2026.6.3
+
+# pandas trae extensiones nativas compiladas (Cython). La version mas
+# reciente (3.x, publicada muy recientemente) todavia no tiene reputacion
+# acumulada en el sistema de reputacion de Microsoft y Smart App Control
+# la bloquea en Windows; se fija una version 2.x mas establecida que si
+# tiene reputacion verificada.
+pandas==2.2.3

@@ -1,0 +1,18 @@
+# Reranker local opcional (cross-encoder multilingue) - src/reranker.py
+#
+# Versiones ANTIGUAS y fijadas a proposito: Smart App Control (Windows 11)
+# bloquea las extensiones nativas de versiones recientes sin reputacion
+# (torch 2.14, scikit-learn, pandas 3.x...). Con estas versiones carga bien.
+# Se usa transformers directamente (sin sentence-transformers) para no
+# arrastrar scikit-learn.
+#
+# Instalar con:
+#   pip install -r requirements-rerank.txt
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.2.2
+numpy<2
+transformers==4.38.2
+tokenizers==0.15.2
+# pyarrow 26 exige numpy>=2 (aqui hace falta numpy<2) y, en una instalacion
+# limpia, Smart App Control bloquea la 25.0.1 (DLL _compute). La 24.x carga.
+pyarrow<25

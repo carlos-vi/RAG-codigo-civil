@@ -1,0 +1,24 @@
+# Datos y persistencia (generados, no son código)
+chroma_db/*
+!chroma_db/.gitkeep
+data/*
+!data/.gitkeep
+
+# Secretos
+.env
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Artefactos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Editores / OS
+.vscode/
+.idea/
+.DS_Store

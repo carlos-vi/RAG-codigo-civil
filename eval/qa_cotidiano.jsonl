@@ -1,0 +1,30 @@
+{"question": "¿Cuánto tiempo tengo para reclamar una deuda?", "articulos": ["1964"], "split": "dev"}
+{"question": "Me atropelló un coche hace unos meses, ¿hasta cuándo puedo reclamar?", "articulos": ["1968"], "split": "test"}
+{"question": "¿Con cuántos años se es mayor de edad?", "articulos": ["240"], "split": "dev"}
+{"question": "¿Puedo dejar a un hijo sin herencia?", "articulos": ["848", "853"], "split": "test"}
+{"question": "El perro de mi vecino me mordió, ¿quién tiene que pagar?", "articulos": ["1905"], "split": "dev"}
+{"question": "Me vendieron un coche con una avería escondida, ¿puedo reclamar al vendedor?", "articulos": ["1484", "1490"], "split": "test"}
+{"question": "¿Puede casarse alguien de 16 años?", "articulos": ["46"], "split": "dev"}
+{"question": "¿Vale un testamento escrito a mano?", "articulos": ["688"], "split": "test"}
+{"question": "¿Desde qué edad se puede hacer testamento?", "articulos": ["663"], "split": "dev"}
+{"question": "Me he encontrado una cartera por la calle, ¿me la puedo quedar?", "articulos": ["615"], "split": "test"}
+{"question": "¿Estoy obligado a mantener a mis padres si no tienen dinero?", "articulos": ["143"], "split": "dev"}
+{"question": "Si nos divorciamos, ¿quién se queda con el perro?", "articulos": ["94 bis"], "split": "test"}
+{"question": "Al divorciarnos, ¿quién se queda con la casa si tenemos hijos pequeños?", "articulos": ["96"], "split": "dev"}
+{"question": "¿Qué hace falta para divorciarse?", "articulos": ["86", "81"], "split": "test"}
+{"question": "¿Tienen los hijos obligación de obedecer a los padres?", "articulos": ["155"], "split": "dev"}
+{"question": "¿Puedo regalarle un piso a mi hijo sin ir al notario?", "articulos": ["633"], "split": "test"}
+{"question": "Alguien lleva treinta años usando un terreno mío, ¿puede quedárselo?", "articulos": ["1959", "1957"], "split": "dev"}
+{"question": "¿Qué pasa con mis bienes si muero sin hacer testamento?", "articulos": ["912", "913"], "split": "test"}
+{"question": "Las ramas del árbol de mi vecino entran en mi jardín, ¿qué puedo hacer?", "articulos": ["592"], "split": "dev"}
+{"question": "¿Puedo abrir una ventana que dé directamente al terreno del vecino?", "articulos": ["582"], "split": "test"}
+{"question": "Si le presto dinero a un amigo, ¿me tiene que pagar intereses?", "articulos": ["1755"], "split": "dev"}
+{"question": "Si muere mi marido y tenemos hijos, ¿qué me corresponde de la herencia?", "articulos": ["834"], "split": "test"}
+{"question": "Mi hijo ha roto el escaparate de una tienda, ¿tengo que pagarlo yo?", "articulos": ["1903"], "split": "dev"}
+{"question": "¿Me pueden echar del piso alquilado si no pago?", "articulos": ["1569"], "split": "test"}
+{"question": "¿Qué apellido va primero, el del padre o el de la madre?", "articulos": ["109"], "split": "dev"}
+{"question": "¿Qué dice el Articulo 1 del codigo civil??", "articulos": ["1"], "split": "cita"}
+{"question": "¿Qué dice el artículo 1902?", "articulos": ["1902"], "split": "cita"}
+{"question": "art. 808 del Código Civil", "articulos": ["808"], "split": "cita"}
+{"question": "¿Qué establece el artículo 94 bis?", "articulos": ["94 bis"], "split": "cita"}
+{"question": "Diferencia entre los artículos 29 y 30", "articulos": ["29", "30"], "split": "cita"}

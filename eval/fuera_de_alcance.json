@@ -1,0 +1,119 @@
+[
+ {
+  "tipo": "otra ley: fiscal",
+  "pregunta": "¿Cuál es el tipo general del IVA en España?",
+  "recuperado": [
+   "Artículo 618",
+   "Artículo 1665",
+   "Artículo 293",
+   "Artículo 27",
+   "Artículo 1538",
+   "Artículo 8"
+  ],
+  "respuesta": "No se encuentra información sobre el tipo general del IVA en el contexto proporcionado. [Ningún artículo del contexto trata sobre el IVA.]"
+ },
+ {
+  "tipo": "otra ley: tráfico",
+  "pregunta": "¿Cuál es la multa por superar el límite de velocidad en autopista?",
+  "recuperado": [
+   "Artículo 1101",
+   "Artículo 1152",
+   "Artículo 1108",
+   "Artículo 1092",
+   "Artículo 1098",
+   "Artículo 616"
+  ],
+  "respuesta": "No se encuentra información sobre la multa por superar el límite de velocidad en autopista en los artículos proporcionados del Código Civil español. Por lo tanto, no puedo responder a esa pregunta con base en el contexto dado. [Ningún artículo aplicable]"
+ },
+ {
+  "tipo": "otra ley: penal",
+  "pregunta": "¿Qué pena tiene el robo con violencia?",
+  "recuperado": [
+   "Artículo 674",
+   "Artículo 1956",
+   "Artículo 1268",
+   "Artículo 673",
+   "Artículo 444",
+   "Artículo 756"
+  ],
+  "respuesta": "No se encuentra en los artículos proporcionados del Código Civil español la pena correspondiente al robo con violencia. Por lo tanto, no puedo ofrecer esa información basándome únicamente en el contexto dado."
+ },
+ {
+  "tipo": "otra ley: laboral",
+  "pregunta": "¿Cuántos días de indemnización por año trabajado corresponden en un despido improcedente?",
+  "recuperado": [
+   "Artículo 1584",
+   "Artículo 1017",
+   "Artículo 5",
+   "Artículo 1483",
+   "Artículo 1581",
+   "Artículo 380"
+  ],
+  "respuesta": "No se encuentra en los artículos proporcionados una disposición que establezca cuántos días de indemnización por año trabajado corresponden en un despido improcedente. El único texto relacionado con indemnización por despido es el art. 1584, que se refiere al criado doméstico y establece una indemnización de quince días de salario además del salario devengado, pero no menciona una cuantificación por año trabajado ni se aplica a despidos improcedentes en general. Por lo tanto, según el contexto dado, no se puede determinar la cantidad de días de indemnización por año trabajado para un despido improcedente. [1] (art. 1584)."
+ },
+ {
+  "tipo": "sin relación",
+  "pregunta": "¿Cuál es la capital de Francia?",
+  "recuperado": [
+   "Artículo 1665",
+   "Artículo 1327",
+   "Artículo 1662",
+   "Artículo 1803",
+   "Artículo 1673",
+   "Artículo 618"
+  ],
+  "respuesta": "No se encuentra en el contexto proporcionado información sobre la capital de Francia. Por lo tanto, no puedo responder a esa pregunta basándome únicamente en los artículos suministrados."
+ },
+ {
+  "tipo": "sin relación",
+  "pregunta": "Dame una receta de paella valenciana.",
+  "recuperado": [
+   "Artículo 1040",
+   "Artículo 1081",
+   "Artículo 1055",
+   "Artículo 531",
+   "Artículo 374",
+   "Artículo 809"
+  ],
+  "respuesta": "No se encuentra en los artículos proporcionados ninguna información sobre una receta de paella valenciana. Por lo tanto, no puedo ofrecer esa respuesta basándome únicamente en el contexto dado."
+ },
+ {
+  "tipo": "art. inexistente",
+  "pregunta": "¿Qué dice el artículo 5000 del Código Civil?",
+  "recuperado": [
+   "Artículo 37",
+   "Artículo 38",
+   "Artículo 431",
+   "Artículo 1976",
+   "Artículo 1166",
+   "Artículo 1600"
+  ],
+  "respuesta": "El artículo 5000 del Código Civil no se encuentra entre los artículos proporcionados en el contexto, por lo que no puedo indicar su contenido basándome únicamente en la información disponible. Si necesitas conocer lo que establece dicho artículo, deberás consultar el texto completo del Código Civil o una fuente oficial que lo incluya. [No se puede inventar una respuesta que no esté en el contexto.]"
+ },
+ {
+  "tipo": "art. derogado",
+  "pregunta": "¿Qué dice el artículo 315 del Código Civil sobre la mayoría de edad?",
+  "recuperado": [
+   "Artículo 246",
+   "Artículo 240",
+   "Artículo 156",
+   "Artículo 1302",
+   "Artículo 255",
+   "Artículo 249"
+  ],
+  "respuesta": "No se encuentra el artículo 315 del Código Civil en el contexto proporcionado, por lo que no puedo indicar su contenido sobre la mayoría de edad. [Ningún artículo del contexto corresponde al art. 315]."
+ },
+ {
+  "tipo": "tocada de refilón",
+  "pregunta": "¿Cuánto tiempo tengo para reclamar a mi casero la devolución de la fianza?",
+  "recuperado": [
+   "Artículo 1964",
+   "Artículo 1648",
+   "Artículo 1650",
+   "Artículo 1966",
+   "Artículo 1973",
+   "Artículo 1961"
+  ],
+  "respuesta": "Según el Código Civil, la acción para reclamar la devolución de la fianza es una **acción personal** que no dispone de un plazo especial prescriptivo. Por tanto, se aplica el régimen general de prescripción de las acciones personales:\n\n- **Artículo 1964.2** [1]: “Las acciones personales que no tengan plazo especial prescriben a los cinco años desde que pueda exigirse el cumplimiento de la obligación.”\n\nEn consecuencia, dispone de **cinco años** para ejercer la reclamación de la fianza frente a su casero, contados desde el momento en que pueda exigérsela (normalmente, al finalizar el contrato de arrendamiento y una vez que el casero tenga la obligación de devolverla).\n\nAdemás, cabe recordar que la prescripción puede interrumpirse por el ejercicio de la acción ante los tribunales, por una reclamación extrajudicial del acreedor o por cualquier acto de reconocimiento de la deuda por parte del deudor (art. 1973 [5]). Si no se realiza ninguna de esas interrupciones, transcurridos los cinco años el derecho quedará prescrito."
+ }
+]

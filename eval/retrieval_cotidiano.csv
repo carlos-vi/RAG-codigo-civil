@@ -1,0 +1,31 @@
+split,question,esperados,posicion,recuperados
+dev,¿Cuánto tiempo tengo para reclamar una deuda?,1964,1,1964 | 1974 | 1973 | 1970 | 1937 | 1961
+test,"Me atropelló un coche hace unos meses, ¿hasta cuándo puedo reclamar?",1968,6,1472 | 294 | 1969 | 1961 | 234 | 1968
+dev,¿Con cuántos años se es mayor de edad?,240,1,240 | 245 | 243 | 23 | 175 | 254
+test,¿Puedo dejar a un hijo sin herencia?,848 853,,814 | 833 | 166 | 761 | 764 | 857
+dev,"El perro de mi vecino me mordió, ¿quién tiene que pagar?",1905,1,1905 | 511 | 333 bis | 1101 | 611 | 1902
+test,"Me vendieron un coche con una avería escondida, ¿puedo reclamar al vendedor?",1484 1490,4,1487 | 1486 | 1488 | 1484 | 1485 | 1496
+dev,¿Puede casarse alguien de 16 años?,46,,243 | 175 | 254 | 56 | 244 | 241
+test,¿Vale un testamento escrito a mano?,688,1,688 | 678 | 702 | 715 | 706 | 695
+dev,¿Desde qué edad se puede hacer testamento?,663,2,701 | 663 | 688 | 666 | Disposiciones transitorias Quinta | 681
+test,"Me he encontrado una cartera por la calle, ¿me la puedo quedar?",615,4,464 | 1955 | 486 | 615 | 611 | 1897
+dev,¿Estoy obligado a mantener a mis padres si no tienen dinero?,143,1,143 | 144 | 1094 | 148 | 110 | 152
+test,"Si nos divorciamos, ¿quién se queda con el perro?",94 bis,,91 | 90 | 103 | 92 | 159 | 1368
+dev,"Al divorciarnos, ¿quién se queda con la casa si tenemos hijos pequeños?",96,3,92 | 90 | 96 | 103 | 159 | 81
+test,¿Qué hace falta para divorciarse?,86 81,3,56 | 60 | 86 | 51 | 63 | 81
+dev,¿Tienen los hijos obligación de obedecer a los padres?,155,1,155 | 168 | 1039 | 970 | 162 | 92
+test,¿Puedo regalarle un piso a mi hijo sin ir al notario?,633,1,633 | 819 | 645 | 632 | 1040 | 825
+dev,"Alguien lleva treinta años usando un terreno mío, ¿puede quedárselo?",1959 1957,1,1959 | 1957 | 18 | 1955 | 1963 | 464
+test,¿Qué pasa con mis bienes si muero sin hacer testamento?,912 913,1,912 | 667 | 981 | 818 | 440 | 191
+dev,"Las ramas del árbol de mi vecino entran en mi jardín, ¿qué puedo hacer?",592,1,592 | 390 | 484 | 1908 | 483 | 1906
+test,¿Puedo abrir una ventana que dé directamente al terreno del vecino?,582,1,582 | 581 | 580 | 585 | 560 | 564
+dev,"Si le presto dinero a un amigo, ¿me tiene que pagar intereses?",1755,,1108 | 1682 | 1881 | 1110 | 1501 | 1753
+test,"Si muere mi marido y tenemos hijos, ¿qué me corresponde de la herencia?",834,,837 | 838 | 16 | 934 | 937 | 809
+dev,"Mi hijo ha roto el escaparate de una tienda, ¿tengo que pagarlo yo?",1903,1,1903 | 234 | 162 | 168 | 1101 | 156
+test,¿Me pueden echar del piso alquilado si no pago?,1569,2,1884 | 1569 | 1568 | 1556 | 1504 | 1552
+dev,"¿Qué apellido va primero, el del padre o el de la madre?",109,1,109 | 13 | 115 | 17 | 113 | 120
+cita,¿Qué dice el Articulo 1 del codigo civil??,1,1,1 | 659 | 9 | 13 | 14 | 1976
+cita,¿Qué dice el artículo 1902?,1902,1,1902 | 1270 | 1366 | 1903 | 1101 | 299
+cita,art. 808 del Código Civil,808,1,808 | 817 | 806 | 986 | 857 | 820
+cita,¿Qué establece el artículo 94 bis?,94 bis,1,94 bis | 250 | 94 | 255 | 249 | 254
+cita,Diferencia entre los artículos 29 y 30,29 30,1,29 | 30 | 31 | 156 | 250 | 229
